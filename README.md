@@ -59,7 +59,7 @@ Se você tiver experiência em desenvolvimento de software, você pode contribui
 ## Detalhamento do Código feito no Google colab
 ### 1. Importações:
 ![XRecorder_Edited_30052024_225921](https://github.com/dsilvaoficial/Proteja-Dos-Golpes-Digitais-/assets/170318768/4bd9ceeb-cd23-47fd-8679-876dd4324b15)
-Essas linhas importam as bibliotecas [requestse] [json], necessárias para fazer solicitações HTTP e trabalhar com dados JSON.
+Essas linhas importam as bibliotecas `requests` `json`, necessárias para fazer solicitações HTTP e trabalhar com dados JSON.
 
 ### 2. Chave API
 ![XRecorder_Edited_30052024_230031](https://github.com/dsilvaoficial/Proteja-Dos-Golpes-Digitais-/assets/170318768/7567a508-1fb4-4682-82d0-d2f2677269be)
