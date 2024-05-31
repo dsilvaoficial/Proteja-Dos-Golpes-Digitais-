@@ -78,10 +78,17 @@ As funções de manipulação de conversação são responsáveis por gerenciar 
 
 O VovôAI Protetor é licenciado sob a licença Apache 2.0. 
 
+
 ## Links úteis 
 
-### • Repositório GitHub:
-
+#### • Repositório GitHub: 
+https://github.com/dsilvaoficial/Proteja-Dos-Golpes-Digitais-.git
+#### • LinkedIn:
+https://www.linkedin.com/in/d-silva-com
+#### I-mail:
+deusirenee@gmail.com
+#### X:
+https://x.com/DSilvaDS1
 
 ## Conclusão 
 
