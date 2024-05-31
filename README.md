@@ -54,7 +54,25 @@ Se você encontrar um bug no VovôAI Protetor, você pode relatá-lo no reposit�
 Se você tiver alguma ideia para novos recursos, você pode sugeri-los no repositório GitHub do projeto. 
 
 ### • Contribuindo com o código: 
-Se você tiver experiência em desenvolvimento de software, você pode contribuir com o código do projeto. 
+Se você tiver experiência em desenvolvimento de software, você pode contribuir com o código do projeto.
+
+## Detalhamento do Código feito no Google colab
+### 1. Importações:
+![XRecorder_Edited_30052024_225921](https://github.com/dsilvaoficial/Proteja-Dos-Golpes-Digitais-/assets/170318768/4bd9ceeb-cd23-47fd-8679-876dd4324b15)
+Essas linhas importam as bibliotecas [requestse] [json], necessárias para fazer solicitações HTTP e trabalhar com dados JSON.
+
+### 2. Chave API
+![XRecorder_Edited_30052024_230031](https://github.com/dsilvaoficial/Proteja-Dos-Golpes-Digitais-/assets/170318768/7567a508-1fb4-4682-82d0-d2f2677269be)
+Esta seção permite que você especifique sua chave de API de navegação segura. Foi usando minha API do Gemini.
+
+### 3. Função
+![XRecorder_Edited_30052024_230120](https://github.com/dsilvaoficial/Proteja-Dos-Golpes-Digitais-/assets/170318768/409c8f45-1f6f-40f3-b321-bb5cbba7bef5)
+Esta função pega um URL como entrada e o verifica na API de navegação segura. Retorna um dicionário contendo informações sobre a URL, incluindo sua classificação de segurança. Se ocorrer um erro, ele gera uma exceção.
+
+### 4. Funções de tratamento de conversas
+![XRecorder_Edited_30052024_230206](https://github.com/dsilvaoficial/Proteja-Dos-Golpes-Digitais-/assets/170318768/23353663-4255-41f1-99c3-1fddfa1571cc)
+As funções de manipulação de conversação são responsáveis por gerenciar o fluxo da conversa entre o usuário e o chatbot. Elas definem como o chatbot responde a diferentes tipos de entradas do usuário, como saudações, solicitações de informações ou perguntas específicas sobre golpes digitais.
+
 
 ## Licença 
 
