@@ -74,6 +74,8 @@ Esta função pega um URL como entrada e o verifica na API de navegação segura
 As funções de manipulação de conversação são responsáveis por gerenciar o fluxo da conversa entre o usuário e o chatbot. Elas definem como o chatbot responde a diferentes tipos de entradas do usuário, como saudações, solicitações de informações ou perguntas específicas sobre golpes digitais.
 
 
+
+
 ![_4a9674c1-85e8-4fbd-9f5e-c1ee96b208f0](https://github.com/dsilvaoficial/Proteja-Dos-Golpes-Digitais-/assets/170318768/2816fe53-31e7-438a-9500-f8c163c0a02a)
 
 ## Licença 
